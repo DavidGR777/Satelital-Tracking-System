@@ -18,6 +18,6 @@ The solution is specifically designed to operate within the NOAA satellite frequ
 This system has potential applications in environmental monitoring, disaster management, agriculture, telecommunications, and scientific research, providing accessible satellite data for governments, companies, and researchers.
 
 <p align="center">
-  <img src="media/animacion_movimiento.gif" width="70%">
-  <img src="media/Expoproyectos_1.jpg" width="20%">
+  <img src="media/animacion_movimiento.gif" width="60%">
+  <img src="media/Expoproyectos_1.jpg" width="30%">
 </p>
