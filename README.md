@@ -16,3 +16,7 @@ The system integrates multiple engineering domains, including:
 The solution is specifically designed to operate within the NOAA satellite frequency range (137–138 MHz) and to function under real environmental conditions, ensuring robustness and portability.
 
 This system has potential applications in environmental monitoring, disaster management, agriculture, telecommunications, and scientific research, providing accessible satellite data for governments, companies, and researchers.
+
+![Diagram](media/animacion_movimiento.gif)
+
+![Simulation](media/Expoproyectos_1.jpg)
